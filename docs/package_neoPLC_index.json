@@ -30,7 +30,7 @@
               "packager": "deftdynamics",
               "name": "gcc-arm-none-eabi",
               "version": "5_2-2015q4"
-            },
+            }
           ]
         }
       ],
