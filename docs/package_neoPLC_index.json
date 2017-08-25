@@ -109,24 +109,24 @@
           "systems": [
             {
               "host": "i386-apple-darwin11",
-              "url": "https://github.com/kylekubik/neoPLC/releases/download/0.0/nrfutil-mac.zip",
-              "archiveFileName": "nrfutil-mac.zip",
-              "size": "5875850",
-              "checksum": "MD5:a6237fd2fc2d335da52e3d2c60261adb"
+              "url": "https://github.com/kylekubik/neoPLC/releases/download/0.0/nrfutil-mac.tar.gz",
+              "archiveFileName": "nrfutil-mac.tar.gz",
+              "size": "5877321",
+              "checksum": "MD5:449dfda2ba0e83b357116e28d0cb2c8e"
             },
             {
               "host": "i686-linux-gnu",
-              "url": "https://github.com/kylekubik/neoPLC/releases/download/0.0/nrfutil-mac.zip",
-              "archiveFileName": "nrfutil-mac.zip",
-              "size": "5875850",
-              "checksum": "MD5:a6237fd2fc2d335da52e3d2c60261adb"
+              "url": "https://github.com/kylekubik/neoPLC/releases/download/0.0/nrfutil-mac.tar.gz",
+              "archiveFileName": "nrfutil-mac.tar.gz",
+              "size": "5877321",
+              "checksum": "MD5:449dfda2ba0e83b357116e28d0cb2c8e"
             },
             {
               "host": "x86_64-pc-linux-gnu",
-              "url": "https://github.com/kylekubik/neoPLC/releases/download/0.0/nrfutil-mac.zip",
-              "archiveFileName": "nrfutil-mac.zip",
-              "size": "5875850",
-              "checksum": "MD5:a6237fd2fc2d335da52e3d2c60261adb"
+              "url": "https://github.com/kylekubik/neoPLC/releases/download/0.0/nrfutil-mac.tar.gz",
+              "archiveFileName": "nrfutil-mac.tar.gz",
+              "size": "5877321",
+              "checksum": "MD5:449dfda2ba0e83b357116e28d0cb2c8e"
             },
             {
               "host": "i686-mingw32",
