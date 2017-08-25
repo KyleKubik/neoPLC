@@ -41,15 +41,15 @@
         {
           "name": "Deft Dynamics nRF5 Boards",
           "architecture": "nRF5",
-          "version": "0.1.0",
+          "version": "0.1.1",
           "category": "Contributed",
           "help": {
             "online": "https://github.com/KyleKubik/neoPLC/issues"
           },
-          "url": "https://github.com/KyleKubik/neoPLC/archive/0.1.tar.gz",
-          "archiveFileName": "neoPLC-0.1.tar.gz",
-          "checksum": "MD5:b19f2f1b51a1b253a7d9d8cbc5f75971",
-          "size": "707126",
+          "url": "https://github.com/KyleKubik/neoPLC/archive/0.1.1.tar.gz",
+          "archiveFileName": "neoPLC-0.1.1.tar.gz",
+          "checksum": "SHA-256:e1d8600f92b7ca851ebed16a7a2383a2d4ca9dfdb9b732b650efd744ce213a85",
+          "size": "708360",
           "boards": [
             {"name": "neoPLC 2.0"},
             {"name": "neoPLC 2.1"}
