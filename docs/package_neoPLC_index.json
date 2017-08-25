@@ -130,10 +130,10 @@
             },
             {
               "host": "i686-mingw32",
-              "url": "https://github.com/kylekubik/neoPLC/releases/download/0.0/nrfutil-win32.zip",
-              "archiveFileName": "nrfutil-win32.zip",
-              "size": "5453524",
-              "checksum": "SHA-256:c961c8704fe4922facacd4d6a6cb58e6ab22b82916ea8a320db06530091d67d0"
+              "url": "https://github.com/kylekubik/neoPLC/releases/download/0.0/nrfutil-win32.tar.gz",
+              "archiveFileName": "nrfutil-win32.tar.gz",
+              "size": "5418994",
+              "checksum": "MD5:449dfda2ba0e83b357116e28d0cb2c8e"
             }
           ]
         }
