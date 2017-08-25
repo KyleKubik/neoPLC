@@ -37,6 +37,35 @@
               "version": "0.0"
             }
           ]
+        },
+        {
+          "name": "Deft Dynamics nRF5 Boards",
+          "architecture": "nRF5",
+          "version": "0.1.0",
+          "category": "Contributed",
+          "help": {
+            "online": "https://github.com/KyleKubik/neoPLC/issues"
+          },
+          "url": "https://github.com/KyleKubik/neoPLC/archive/0.1.tar.gz",
+          "archiveFileName": "neoPLC-0.1.tar.gz",
+          "checksum": "MD5:b19f2f1b51a1b253a7d9d8cbc5f75971",
+          "size": "707126",
+          "boards": [
+            {"name": "neoPLC 2.0"},
+            {"name": "neoPLC 2.1"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "deftdynamics",
+              "name": "gcc-arm-none-eabi",
+              "version": "5_2-2015q4"
+            },
+            {
+              "packager": "deftdynamics",
+              "name": "nrfutil",
+              "version": "0.0"
+            }
+          ]
         }
       ],
       "tools":[
