@@ -82,22 +82,22 @@
               "host": "i386-apple-darwin11",
               "url": "https://github.com/kylekubik/neoPLC/releases/download/0.0/nrfutil-mac.zip",
               "archiveFileName": "nrfutil-mac.zip",
-              "size": "5877936",
-              "checksum": "MD5:8b2b68d71a1f9becf66954a0aa579f7c"
+              "size": "5875850",
+              "checksum": "MD5:a6237fd2fc2d335da52e3d2c60261adb"
             },
             {
               "host": "i686-linux-gnu",
               "url": "https://github.com/kylekubik/neoPLC/releases/download/0.0/nrfutil-mac.zip",
               "archiveFileName": "nrfutil-mac.zip",
-              "size": "5877936",
-              "checksum": "MD5:8b2b68d71a1f9becf66954a0aa579f7c"
+              "size": "5875850",
+              "checksum": "MD5:a6237fd2fc2d335da52e3d2c60261adb"
             },
             {
               "host": "x86_64-pc-linux-gnu",
               "url": "https://github.com/kylekubik/neoPLC/releases/download/0.0/nrfutil-mac.zip",
               "archiveFileName": "nrfutil-mac.zip",
-              "size": "5877936",
-              "checksum": "MD5:8b2b68d71a1f9becf66954a0aa579f7c"
+              "size": "5875850",
+              "checksum": "MD5:a6237fd2fc2d335da52e3d2c60261adb"
             },
             {
               "host": "i686-mingw32",
